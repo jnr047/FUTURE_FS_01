@@ -27,8 +27,8 @@ This repository contains all tasks and project work completed during my **Full S
 ## 🛠️ Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript, React.js (if applicable)  
-- **Backend:** Node.js, Express.js  (To be confirmed soon)
-- **Database:** MongoDB / MySQL (To be confirmed soon) 
+- **Backend:** Node.js, Express.js 
+- **Database:** MongoDB / MySQL 
 - **Version Control:** Git & GitHub
 
 ---
